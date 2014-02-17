@@ -1,0 +1,10 @@
+alias l="ls -Ga"
+alias ll="ls -Glah"
+alias grep="grep --color"
+alias ec="cd ~/ECProjects"
+alias w="cd ~/WorkProjects"
+alias seleniumserver="java -jar selenium-server-standalone-2.32.0.jar -Dwebdriver.chrome.driver=KXLHarness/WebDriver/chromedriver" 
+alias up="cd .."
+alias vim="mvim"
+
+
